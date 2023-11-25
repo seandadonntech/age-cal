@@ -1,4 +1,4 @@
-#simple js program to calculate what year you were born
+# simple js program to calculate what year you were born
 ```javascript
 const now = 2023;// enter currect year 
 const age = now - 19 //your age here//
