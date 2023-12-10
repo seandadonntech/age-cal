@@ -10,7 +10,8 @@ function bmi(){
 
 console.log(cal);
 console.log("You was born in " + year)
-
+/* This prgram may be a year off 
+*/
 
 }
 
