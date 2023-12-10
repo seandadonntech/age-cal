@@ -1,3 +1,17 @@
-const now = 2023;// enter currect year 
-const age = now - 19 //your age here//
-console.log(age);//print year//
+var prompt = require('prompt-sync')();
+
+
+age = parseInt(prompt("Enter your AGE: " ));
+year = parseInt(prompt("Enter a year: " ));
+
+
+function bmi(){
+ cal = year - age
+
+console.log(cal);
+console.log("You was born in " + year)
+
+
+}
+
+bmi();
